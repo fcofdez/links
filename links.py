@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from github import Github
 from github.InputFileContent import InputFileContent
 from urlparse import urlparse

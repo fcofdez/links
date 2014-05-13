@@ -4,7 +4,7 @@ Small python utility, done quick and dirty to share links into github gists.
 
 To use it
 ```
-python links.py "http://coollink.com"
+./links.py "http://coollink.com"
 ```
 
 All links are saved into 
